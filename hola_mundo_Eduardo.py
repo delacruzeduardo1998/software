@@ -1,1 +1,1 @@
-print("p$%#o el que lo lea")
+print("hola")
