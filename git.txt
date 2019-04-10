@@ -1,0 +1,37 @@
+
+
+https://github.com/RandolPerez11/software.git
+------------------------- configurar usuario y contraseña---------------------------
+# Siempre puedes curiosear con lo existente en la configuración...
+git config --global --list
+ 
+# Primero, elimina el usuario actual (nombre y correo).
+git config --global --unset-all user.name
+git config --global --unset-all user.email
+ 
+# Luego, vuelve a configurar las propiedades con tus datos.
+git config --global --add user.name "El nuevo usuario"
+git config --global --add user.email "nuevo@correo.com"
+----------------------inicializar la carpeta .git----------------------------------
+git init
+git add README.md
+git commit -m "first commit"
+git remote add https://github.com/RandolPerez11/software.git
+git push -u origin master
+---------ver archivos modificados-------------
+git status
+----------------------historial----------------------
+git log
+----------------------crea carpeta--------------------
+mkdir nombre_de_la_carpeta
+------------------clonar el repositorio---------------------
+
+git clone https://github.com/RandolPerez11/software.git
+
+
+----------------nuevo commit------------------------------
+git add .
+git commit -m "mensaje"
+git push -u origin master
+-------------------actualizar proyecto------------------------------
+git pull
