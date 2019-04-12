@@ -36,3 +36,9 @@ git commit -m "mensaje"
 git push -u origin master
 -------------------actualizar proyecto------------------------------
 git pull
+---------------------------usar un fork----------------------------------
+git remote add upstream [URL de tu fork]
+git add.
+git commite -m "mensaje"
+git push -u upstream master
+git remote -v                  ###que nos mostrará los repositorios remotos a los que apunta nuestro “fork”.
