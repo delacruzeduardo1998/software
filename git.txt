@@ -2,6 +2,7 @@
 
 https://github.com/RandolPerez11/software.git
 #eduardo de la Cruz Macías.
+#yo
 ------------------------- configurar usuario y contrase�a---------------------------
 # Siempre puedes curiosear con lo existente en la configuraci�n...
 git config --global --list
