@@ -1,8 +1,9 @@
 
 
 https://github.com/RandolPerez11/software.git
-------------------------- configurar usuario y contraseña---------------------------
-# Siempre puedes curiosear con lo existente en la configuración...
+
+------------------------- configurar usuario y contraseï¿½a---------------------------
+# Siempre puedes curiosear con lo existente en la configuraciï¿½n...
 git config --global --list
  
 # Primero, elimina el usuario actual (nombre y correo).
