@@ -1,7 +1,7 @@
 
 
 https://github.com/RandolPerez11/software.git
-#eduardo
+#eduardo de la Cruz
 ------------------------- configurar usuario y contrase�a---------------------------
 # Siempre puedes curiosear con lo existente en la configuraci�n...
 git config --global --list
